@@ -1,5 +1,6 @@
-clone the repositorie
+download code from CODE
+extract it
 run npm install on your computer
-npm start OR yarn start
+npm install json-server
 npm run json-server (for locale data base)
-locale data base name db.json
+npm start OR yarn start
