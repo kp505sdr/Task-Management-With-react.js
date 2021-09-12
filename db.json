@@ -1,34 +1,5 @@
 {
   "users": [
-    {
-      "id": 1,
-      "title": "आधार कार्ड",
-      "dsc": "ghjghjghj",
-      "status": [
-        "open"
-      ],
-      "createDate": "12/9/2021, 1:40:21 pm",
-      "updateDate": "12/9/2021, 2:13:25 pm"
-    },
-    {
-      "id": 2,
-      "title": "आधार कार्ड",
-      "dsc": "mbnm",
-      "status": [
-        "complited"
-      ],
-      "createDate": "12/9/2021, 2:08:37 pm",
-      "updateDate": "12/9/2021, 2:13:45 pm"
-    },
-    {
-      "id": 3,
-      "title": "आधार कार्ड",
-      "dsc": "kjhkh",
-      "status": [
-        "open"
-      ],
-      "createDate": "12/9/2021, 2:11:07 pm",
-      "updateDate": "12/9/2021, 2:13:10 pm"
-    }
+  
   ]
 }
