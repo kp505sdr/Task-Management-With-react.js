@@ -1,0 +1,23 @@
+.mycontent-div {
+  width: 33%;
+  background-color: rgb(214, 240, 231);
+  margin-left: auto;
+  margin-top: 110px;
+}
+.mycontent-div > h1 {
+  text-align: center;
+}
+.my-card {
+  margin: auto !important;
+  margin-bottom: 20px !important;
+}
+.header-div {
+  width: 100%;
+  margin-top: 56px;
+  position: fixed;
+  z-index: 111;
+  color: aliceblue;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: space-around;
+}
